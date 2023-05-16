@@ -17,6 +17,18 @@ A bar chart is used for summarizing a set of categorical data. In bar chart, the
 
 ![image](https://github.com/Kemi101/R-and-PowerBI-Project-Analyse-the-performance-of-Hollywood-movies-/assets/131159967/82b529ec-e92f-492a-aab1-b7c7d7ebbf1f)
 
+Requirement 
+For the dashboard, the company would like me to use their brand colors which are blue, green and brown. 
+
+In my power BI Dashboard, the client would like to see: 
+
+	The average Rotten Tomatoes ratings of each genre
+	The number of movies produced per year 
+	The audience score for each film  
+	The profitability per studio 
+	The worldwide gross per genre 
+
+
 Imported the clean data set to powerbi to make a dashboard
 Power Bi 
 ![image](https://github.com/Kemi101/R-and-PowerBI-Project-Analyse-the-performance-of-Hollywood-movies-/assets/131159967/52062388-0d2c-4dc5-b556-264d0782e2ea)
